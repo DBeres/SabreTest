@@ -6,6 +6,6 @@ using namespace std;
 
 int main()
 {
-    cout<<funkcja(2,mnozenie(3,4))<<endl;
+    cout<<sum(2,mnozenie(3,4))<<endl;
     return 0;
 }
